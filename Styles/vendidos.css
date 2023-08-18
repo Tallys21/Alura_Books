@@ -42,3 +42,9 @@
 .card__vendidos-estrelinha{
     margin: 0.5em 0;
 }
+
+@media screen and (min-width: 1024px) {
+    .vendidos__titulo{
+        font-size: 26px;
+    }
+}
